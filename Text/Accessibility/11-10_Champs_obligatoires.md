@@ -1,0 +1,2 @@
+Les champs dont la saisie est obligatoire sont indiqués par une astérisque/étoile ( * ) au niveau de l'étiquette (*label*) du champ de saisie et en utilisant l’attribut `required` sur l'élément. (RGAA critère [11.10](https://accessibilite.public.lu/fr/rgaa4.1.2/criteres.html#crit-11-10))\
+**Note** : Il est à noter qu’une indication en début de formulaire doit indiquer la signification de cette astérisque/étoile, telle que : *« * : champs obligatoires. »*

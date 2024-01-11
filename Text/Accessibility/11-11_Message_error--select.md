@@ -1,0 +1,2 @@
+Pour chaque erreur, une suggestion facilitant la correction est proposée. (RGAA critère [11.11](https://accessibilite.public.lu/fr/rgaa4.1.2/criteres.html#crit-11-11))\
+Pour annoncer au lecteur d'écran les messages ajoutés suite à une validation à la volée (*realtime form validation*), l’attribut `aria-live="assertive"` doit être ajouté au message d’erreur.

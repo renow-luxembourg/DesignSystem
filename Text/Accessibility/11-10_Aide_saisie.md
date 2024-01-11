@@ -1,0 +1,1 @@
+Des messages d’aide à la saisie sont présents pour donner des informations essentielles au remplissage du champ (indication sur le format de données à respecter, instruction spécifique, etc.) préalablement à la validation du formulaire. (RGAA critère [11.10](https://accessibilite.public.lu/fr/rgaa4.1.2/criteres.html#crit-11-10))
