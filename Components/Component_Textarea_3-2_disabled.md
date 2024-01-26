@@ -4,7 +4,7 @@
     <label for="textarea">Label</label>
   </div>
   <div class="form-group-field">
-    <textarea id="textarea" name="textarea" disabled></textarea>
+    <textarea id="textarea" name="textarea" placeholder="Placeholder text" disabled></textarea>
   </div>
 </div>
 ```

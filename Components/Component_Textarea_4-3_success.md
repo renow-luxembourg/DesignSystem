@@ -4,7 +4,7 @@
     <label for="textarea">Label</label>
   </div>
   <div class="form-group-field">
-    <textarea id="textarea" name="textarea" aria-describedby="valid-msg"></textarea>
+    <textarea id="textarea" name="textarea" placeholder="Placeholder text" aria-describedby="valid-msg"></textarea>
     <div class="alert alert--success">
       <p id="valid-msg" class="valid">Success message</p>
     </div>

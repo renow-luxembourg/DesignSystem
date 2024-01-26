@@ -1,7 +1,6 @@
 ```html
-<fieldset class="form-options form-options--radio">
-  <legend class="form-options-legend">
-    Country of residence
+<fieldset class="form-options form-options--radio" aria-describedby="desc-radio error-radio">
+  <legend class="form-options-legend">Country of residence <span class="field-required">*</span>
     <div class="tooltip">
       <button type="button" aria-label="Help message about this field" class="tooltip-btn">i</button>
       <div class="tooltip-content" role="status">
@@ -9,6 +8,9 @@
       </div>
     </div>
   </legend>
+  <div class="alert alert--info">  
+    <p id="desc-radio">Help message</p>
+  </div>
   <ul class="form-options-content">
     <li class="form-options-group">
       <label class="form-options-label" for="LB">
@@ -41,5 +43,8 @@
       </label>
     </li>
   </ul>
+  <div class="alert alert--error">
+    <p id="error-radio" class="error">Error message</p>
+  </div>
 </fieldset>
 ```

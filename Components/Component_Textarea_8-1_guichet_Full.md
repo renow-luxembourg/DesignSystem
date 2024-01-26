@@ -12,9 +12,9 @@
   <div class="form-group-field from-field-wrapper--counter">
     <p id="counter-textarea" class="form-counter" role="status">
       <span class="counter-value">0</span>/
-      <span class="counter-total">5000</span>
+      <span class="counter-total">13</span>
     </p>
-    <textarea id="textarea" name="textarea" aria-describedby="desc-textarea counter-textarea error-textarea" aria-invalid="true"></textarea>
+    <textarea id="textarea" name="textarea" placeholder="Placeholder text" aria-describedby="desc-textarea counter-textarea error-textarea" aria-invalid="true"></textarea>
     <div class="alert alert--info">
       <p id="desc-textarea">Help message</p>
     </div>

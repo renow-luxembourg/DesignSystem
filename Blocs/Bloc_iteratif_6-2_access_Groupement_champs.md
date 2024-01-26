@@ -1,13 +1,23 @@
 ```html
-<fieldset>
-  <legend>Contact person information</legend>
+<div class="cmp-iterative-rows">
+  <fieldset>
+    <legend>#01 Contact person informations</legend>
     <div class="form-group">
-      <label for="id-nom">Last name</label>
-      <input type="text" id="id-nom" name="name_01" class="form-field">
+      <div class="form-group-label">
+        <label for="name_01">Last name</label>
+      </div>
+      <div class="form-group-field">
+        <input id="name_01" name="name_01" type="text" placeholder="Placeholder text">
+      </div>
     </div>
     <div class="form-group">
-      <label for="id-prenom">First name</label>
-      <input type="text" id="id-prenom" name="firstname_01" class="form-field">
+        <div class="form-group-label">
+        <label for="firstname_01">First name</label>
+      </div>
+      <div class="form-group-field">
+        <input id="firstname_01" name="firstname_01" type="text" placeholder="Placeholder text">
+      </div>
     </div>
-</fieldset>
+  </fieldset>
+</div>
 ```

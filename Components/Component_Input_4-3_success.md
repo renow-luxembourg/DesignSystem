@@ -1,7 +1,7 @@
 ```html
 <div class="form-group field-valid">
   <div class="form-group-label">
-    <label for="textfield">Username </label>
+    <label for="textfield">Username</label>
   </div>
   <div class="form-group-field">
     <input id="textfield" name="textfield" type="text" placeholder="Placeholder text" aria-describedby="valid-textfield">

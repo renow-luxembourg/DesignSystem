@@ -12,7 +12,7 @@
   <div class="form-group-field from-field-wrapper--suffix from-field-wrapper--counter">
     <p id="counter-textfield" class="form-counter" role="status">
       <span class="counter-value">0</span>/
-      <span class="counter-total">12</span>
+      <span class="counter-total">13</span>
     </p>
     <input type="text" id="textfield" name="textfield" class="form-field" aria-invalid="true" aria-describedby="desc-textfield suffix-textfield counter-textfield error-textfield" required>
     <p id="suffix-textfield" class="form-field-suffix">

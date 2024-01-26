@@ -1,7 +1,7 @@
 ```html
 <fieldset class="form-options form-options--checkbox">
   <legend class="form-options-legend">
-    Legend
+    Legend <span class="field-required">*</span>
     <div class="tooltip">
       <button type="button" aria-label="Help message about this field" class="tooltip-btn">i</button>
       <div class="tooltip-content" role="status">
