@@ -2,4 +2,4 @@ Les labels peuvent être situés soit en haut, soit sur le côté gauche du cham
 
 Les labels sur le côté gauche sont particulièrement utiles lorsque l'espace vertical est limité.
 
-Le choix de position du labels s'applique à l'intégralité du formulaire. 
+Le choix de position des labels s'applique à l'intégralité du formulaire. 
