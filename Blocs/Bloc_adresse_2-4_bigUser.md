@@ -13,9 +13,9 @@
         <option value="" selected disabled hidden>Select a country</option>
         <option value="LB">Luxembourg</option>
         <optgroup label="Pays frontaliers">
-          <option value="FR">France</option>
           <option value="BE">Belgium</option>
           <option value="DE">Germany</option>
+          <option value="FR">France</option>
         </optgroup>
         <optgroup label="Autres pays">
           <option value="AF">Afghanistan</option>
@@ -39,6 +39,14 @@
     </div>
     <div class="form-group-field">
       <input type="text" id="city" name="city" class="form-field" autocomplete="address-level2" required>
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="form-group-label">
+      <label for="commune">Commune <span class="field-required">*</span></label>
+    </div>
+    <div class="form-group-field">
+      <input type="text" id="commune" name="commune" class="form-field" autocomplete="address-level3" required>
     </div>
   </div>
   <div class="form-group">
