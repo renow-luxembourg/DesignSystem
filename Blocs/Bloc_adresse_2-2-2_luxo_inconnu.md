@@ -30,7 +30,10 @@
       <label for="postal-code">Postal code <span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
-      <input type="text" id="postal-code" name="postal-code" class="form-field" autocomplete="postal-code" required>
+      <input type="text" id="postal-code" name="postal-code" class="form-field" autocomplete="postal-code" aria-describedby="postal-code-desc" required>
+      <div class="alert alert--info"> 
+        <p id="postal-code-desc">Please use the format L-**** for Luxembourg postal code (example: L-1234)</p>
+      </div>
     </div>
   </div>
   <div class="form-group">

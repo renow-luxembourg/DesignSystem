@@ -3,8 +3,8 @@
   <legend class="form-options-legend">
     Legend <span class="field-required">*</span>
     <div class="tooltip">
-      <button type="button" aria-label="Help message about this field" class="tooltip-btn">i</button>
-      <div class="tooltip-content" role="status">
+      <button type="button" class="tooltip-btn" aria-label="Help message about this fieldset" title="Help message about this fieldset" aria-expanded="false" aria-controls="tooltip-content">i</button>
+      <div id="tooltip-content" class="tooltip-content">
         <p>Non-essential help message</p>
       </div>
     </div>
