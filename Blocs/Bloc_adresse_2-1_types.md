@@ -11,7 +11,7 @@
     <li class="form-options-group">
       <label class="form-options-label" for="postal-box">
         <input class="form-options-field form-options-field--radio" id="opt-postal-box" type="radio" name="address-type" value="BP">
-        <span class="form-options-field-description">Boite postale</span>
+        <span class="form-options-field-description">Boîte postale</span>
       </label>
     </li>
     <li class="form-options-group">

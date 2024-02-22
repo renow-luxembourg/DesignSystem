@@ -27,7 +27,7 @@
   </div>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="additional-address">Additional address</label>
+      <label for="additional-address">Complément d'adresse</label>
     </div>
     <div class="form-group-field">
       <input type="text" id="additional-address" name="additional-address" class="form-field">
@@ -35,7 +35,7 @@
   </div>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="street-number">Street number</label>
+      <label for="street-number">Numéro de rue</label>
     </div>
     <div class="form-group-field">
       <input type="text" id="street-number" name="street-number" class="form-field">
@@ -43,7 +43,7 @@
   </div>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="street">Street <span class="field-required">*</span></label>
+      <label for="street">Rue <span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
       <input type="text" id="street" name="street" class="form-field" required>
@@ -51,7 +51,7 @@
   </div>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="postal-code">Postal code <span class="field-required">*</span></label>
+      <label for="postal-code">Code postal <span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
       <input type="text" id="postal-code" name="postal-code" class="form-field" autocomplete="postal-code" required>
@@ -59,7 +59,7 @@
   </div>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="city">City <span class="field-required">*</span></label>
+      <label for="city">Localité <span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
       <input type="text" id="city" name="city" class="form-field" autocomplete="address-level2" required>
