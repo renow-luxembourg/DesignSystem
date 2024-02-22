@@ -1,12 +1,12 @@
 ```html
 <fieldset>
-  <legend>Address</legend>
+  <legend>Adresse</legend>
   <fieldset class="cmp-form-options cmp-form-options--radio">
     [...]
   </fieldset>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="line1">Line 1</label>
+      <label for="line1">Ligne 1</label>
     </div>
     <div class="form-group-field">
       <input type="text" id="line1" name="line1" class="form-field" autocomplete="address-line1">
@@ -14,7 +14,7 @@
   </div>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="line2">Line 2</label>
+      <label for="line2">Ligne 2</label>
     </div>
     <div class="form-group-field">
       <input type="text" id="line2" name="line2" class="form-field" autocomplete="address-line2">
@@ -22,7 +22,7 @@
   </div>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="line3">Line 3</label>
+      <label for="line3">Ligne 3</label>
     </div>
     <div class="form-group-field">
       <input type="text" id="line3" name="line3" class="form-field" autocomplete="address-line3">
@@ -30,7 +30,7 @@
   </div>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="postal-code">Postal code <span class="field-required">*</span></label>
+      <label for="postal-code">Code postal <span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
       <input type="text" id="postal-code" name="postal-code" class="form-field" autocomplete="postal-code" required>
@@ -38,7 +38,7 @@
   </div>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="city">City <span class="field-required">*</span></label>
+      <label for="city">Localité <span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
       <input type="text" id="city" name="city" class="form-field" autocomplete="address-level2" required>
@@ -54,15 +54,15 @@
   </div>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="country">Country <span class="field-required">*</span></label>
+      <label for="country">Pays <span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
       <select id="country" name="country" class="form-field" autocomplete="country" required>
-        <option value="" selected disabled hidden>Select a country</option>
-        <option value="LB">Luxembourg</option>
+        <option value="" selected disabled hidden>Veuillez choisir un pays</option>
+        <option value="LU">Luxembourg</option>
         <optgroup label="Pays frontaliers">
-          <option value="BE">Belgium</option>
-          <option value="DE">Germany</option>
+          <option value="BE">Belgique</option>
+          <option value="DE">Allemagne</option>
           <option value="FR">France</option>
         </optgroup>
         <optgroup label="Autres pays">

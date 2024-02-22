@@ -1,20 +1,20 @@
 ```html
 <fieldset>
-  <legend>Address</legend>
+  <legend>Adresse</legend>
   <fieldset class="cmp-form-options cmp-form-options--radio">
     [...]
   </fieldset>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="country">Country <span class="field-required">*</span></label>
+      <label for="country">Pays <span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
       <select id="country" name="country" class="form-field" autocomplete="country" required>
-        <option value="" selected disabled hidden>Select a country</option>
-        <option value="LB">Luxembourg</option>
+        <option value="" selected disabled hidden>Veuillez choisir un pays</option>
+        <option value="LU">Luxembourg</option>
         <optgroup label="Pays frontaliers">
-          <option value="BE">Belgium</option>
-          <option value="DE">Germany</option>
+          <option value="BE">Belgique</option>
+          <option value="DE">Allemagne</option>
           <option value="FR">France</option>
         </optgroup>
         <optgroup label="Autres pays">
