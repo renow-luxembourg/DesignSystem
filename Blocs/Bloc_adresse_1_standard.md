@@ -35,15 +35,6 @@
   </div>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="commune">Commune <span class="field-required">*</span></label>
-    </div>
-    <div class="form-group-field">
-      <input type="text" id="commune" name="commune" class="form-field" autocomplete="address-level3" required>
-    </div>
-  </div>
- 
-   <div class="form-group">
-    <div class="form-group-label">
       <label for="country">Pays <span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
