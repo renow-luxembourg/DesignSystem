@@ -1,6 +1,10 @@
 ```html
-<div class="form-group">
-  <label for="id-iban">IBAN number</label>
-  <input type="text" id="id-iban" name="iban_01" class="form-field">
-</div>
+  <div class="form-group">
+    <div class="form-group-label">
+      <label for="city">Localité</label>
+    </div>
+    <div class="form-group-field">
+      <input type="text" id="city" name="city" class="form-field">
+    </div>
+  </div>
 ```

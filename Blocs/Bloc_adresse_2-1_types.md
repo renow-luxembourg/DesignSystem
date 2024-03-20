@@ -1,6 +1,6 @@
 ```html
 <fieldset class="form-options form-options--radio">
-  <legend class="form-options-legend">Type d'adresse <span class="field-required">*</span></legend>
+  <legend class="form-options-legend">Type d'adresse<span class="field-required">*</span></legend>
   <ul class="form-options-content">
     <li class="form-options-group">
       <label class="form-options-label" for="physical-address">

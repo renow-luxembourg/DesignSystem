@@ -1,7 +1,7 @@
 ```html
 <fieldset class="form-options form-options--radio field-error" aria-invalid="true" aria-describedby="desc-radio error-radio">
   <legend class="form-options-legend">
-    Legend <span class="field-required">*</span>
+    Legend<span class="field-required">*</span>
   </legend>
   <div class="alert alert--info">
     <p id="desc-radio">Help message</p>

@@ -6,7 +6,7 @@
   </fieldset>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="country">Pays <span class="field-required">*</span></label>
+      <label for="country">Pays<span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
       <select id="country" name="country" class="form-field" autocomplete="country" required>
@@ -27,15 +27,18 @@
   </div>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="postal-code">Code postal <span class="field-required">*</span></label>
+      <label for="postal-code">Code postal<span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
-      <input type="text" id="postal-code" name="postal-code" class="form-field" autocomplete="postal-code" required>
+      <input type="text" id="postal-code" name="postal-code" class="form-field" autocomplete="postal-code" aria-describedby="postal-code-desc" required>
+      <div class="alert alert--info"> 
+        <p id="postal-code-desc">Saisir 1234 pour L-1234</p>
+      </div>
     </div>
   </div>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="city">Localité <span class="field-required">*</span></label>
+      <label for="city">Localité<span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
       <select id="city" name="city" class="form-field" required>
@@ -53,7 +56,7 @@
   </div>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="street">Rue <span class="field-required">*</span></label>
+      <label for="street">Rue<span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
       <select id="street" name="street" class="form-field" required>

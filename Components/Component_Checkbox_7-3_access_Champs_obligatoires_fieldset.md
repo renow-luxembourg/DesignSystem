@@ -1,7 +1,7 @@
 ```html
 <fieldset class="form-options form-options--checkbox">
   <legend class="form-options-legend">
-    Legend <span class="field-required">*</span>
+    Legend<span class="field-required">*</span>
   </legend>
   <ul class=" form-options-content">
     <li class="form-options-group">

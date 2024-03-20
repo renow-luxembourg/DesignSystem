@@ -1,6 +1,6 @@
 ```html
 <fieldset class="form-options form-options--radio">
-  <legend class="form-options-legend">Legend <span class="field-required">*</span></legend>
+  <legend class="form-options-legend">Legend<span class="field-required">*</span></legend>
   <label class="form-options-label" for="radio1">
     <input class="form-options-field form-options-field--radio" id="radio1" type="radio" name="radio-group" value="radio1" required>
     <span class="form-options-description">Radio 1</span>

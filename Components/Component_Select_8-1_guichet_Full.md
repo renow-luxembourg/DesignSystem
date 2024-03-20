@@ -1,7 +1,7 @@
 ```html
 <div class="form-group field-error">
   <div class="form-group-label">
-    <label for="select">Label <span class="field-required">*</span></label>
+    <label for="select">Label<span class="field-required">*</span></label>
     <div class="tooltip">
       <button type="button" aria-label="Help on select label" class="tooltip-btn">i</button>
       <div class="tooltip-content" role="status">

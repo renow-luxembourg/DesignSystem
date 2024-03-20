@@ -2,15 +2,15 @@
 <fieldset>
   <legend>Identification form</legend>
   <div class="form-group">
-    <label for="firstname">Firstname <span class="field-required">*</span></label>
+    <label for="firstname">Firstname<span class="field-required">*</span></label>
     <input type="text" id="firstname" name="firstname" class="form-field" autocomplete="given-name" required>
   </div>
   <div class="form-group">
-    <label for="lastname">Lastname <span class="field-required">*</span></label>
+    <label for="lastname">Lastname<span class="field-required">*</span></label>
     <input type="text" id="lastname" name="lastname" class="form-field" autocomplete="family-name" required>
   </div>
   <div class="form-group">
-    <label for="birthplace">Localité de naissance <span class="field-required">*</span></label>
+    <label for="birthplace">Localité de naissance<span class="field-required">*</span></label>
     <input type="text" id="birthplace" name="birthplace" class="form-field" required>
   </div>
   <div class="form-group">
@@ -18,7 +18,7 @@
     <input type="text" id="deathplace" name="deathplace" class="form-field">
   </div>
   <div class="form-group">
-    <label for="ssn">Social security number <span class="field-required">*</span></label>
+    <label for="ssn">Social security number<span class="field-required">*</span></label>
     <p id="ssn-counter" role="status">
       <span class="counter-value">0</span>/
       <span class="counter-total">13</span>
@@ -32,7 +32,7 @@
     <p id="doc-help">Help message ???</p>
   </div>
   <div class="form-group">
-    <label for="email">Email <span class="field-required">*</span></label>
+    <label for="email">Email<span class="field-required">*</span></label>
     <div class="cmp-tooltip">
       <button type="button" aria-label="Help on Email field" class="cmp-tooltip-btn">i</button>
       <div class="cmp-tooltip-content" role="status">
@@ -42,7 +42,7 @@
     <input type="email" id="email" name="email" class="form-field" autocomplete="email" required>
   </div>
   <div class="form-group">
-    <label for="phone">Phone <span class="field-required">*</span></label>
+    <label for="phone">Phone<span class="field-required">*</span></label>
     <div class="cmp-tooltip">
       <button type="button" aria-label="Help on Phone field" class="cmp-tooltip-btn">i</button>
       <div class="cmp-tooltip-content" role="status">
