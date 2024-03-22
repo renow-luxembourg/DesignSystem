@@ -1,13 +1,22 @@
 ```html
 <fieldset>
-  <legend>Contact person information</legend>
-    <div class="form-group">
-      <label for="id-nom">Last name</label>
-      <input type="text" id="id-nom" name="name_01" class="form-field">
-    </div>
-    <div class="form-group">
-      <label for="id-prenom">First name</label>
-      <input type="text" id="id-prenom" name="firstname_01" class="form-field">
-    </div>
+  <legend>Signalétique</legend>
+  <div class="form-group">
+  <div class="form-group-label">
+    <label for="lastname">Nom<span class="field-required">*</span></label>
+  </div>
+  <div class="form-group-field">
+    <input id="lastname" name="lastname" type="text" autocomplete="family-name" required>
+  </div>
+</div>
+<div class="form-group">
+  <div class="form-group-label">
+    <label for="firstname">Prénom(s)</label>
+  </div>
+  <div class="form-group-field">
+    <input id="firstname" name="firstname" type="text" autocomplete="given-name">
+  </div>
+</div>
+[...]
 </fieldset>
 ```
