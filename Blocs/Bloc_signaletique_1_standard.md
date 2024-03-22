@@ -6,7 +6,7 @@
       <label for="lastname">Nom<span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
-      <input id="lastname" name="lastname" type="text" autocomplete="family-name" required>
+      <input id="lastname" name="lastname" type="text" class="form-field" autocomplete="family-name" required>
     </div>
   </div>
   <div class="form-group">
@@ -14,7 +14,7 @@
       <label for="firstname">Prénom(s)</label>
     </div>
     <div class="form-group-field">
-      <input id="firstname" name="firstname" type="text" autocomplete="given-name">
+      <input id="firstname" name="firstname" type="text" class="form-field" autocomplete="given-name">
     </div>
   </div>
   <div class="form-group">
@@ -22,7 +22,7 @@
       <label for="nin">Numéro d'identification national<span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
-      <input id="nin" name="nin" type="text" aria-describedby="nin-desc">
+      <input id="nin" name="nin" type="text" class="form-field" aria-describedby="nin-desc">
       <div class="alert alert--info"> 
         <p id="nin-desc">Numéro à 13 chiffres (format: AAAAMMJJXXXXX)</p>
       </div>
@@ -39,7 +39,7 @@
       <label for="birthdate">Date de naissance<span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
-      <input id="birthdate" name="birthdate" type="date" required>
+      <input id="birthdate" name="birthdate" type="date" class="form-field" required>
     </div>
   </div>
 </fieldset>
