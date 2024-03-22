@@ -6,7 +6,7 @@
     <label for="lastname">Nom<span class="field-required">*</span></label>
   </div>
   <div class="form-group-field">
-    <input id="lastname" name="lastname" type="text" autocomplete="family-name" required>
+    <input id="lastname" name="lastname" type="text" class="form-field" autocomplete="family-name" required>
   </div>
 </div>
 <div class="form-group">
@@ -14,7 +14,7 @@
     <label for="firstname">Prénom(s)</label>
   </div>
   <div class="form-group-field">
-    <input id="firstname" name="firstname" type="text" autocomplete="given-name">
+    <input id="firstname" name="firstname" type="text" class="form-field" autocomplete="given-name">
   </div>
 </div>
 [...]
