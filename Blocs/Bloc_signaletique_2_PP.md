@@ -42,5 +42,13 @@
       <input id="birthdate" name="birthdate" type="date" class="form-field" required>
     </div>
   </div>
+  <div class="form-group">
+    <div class="form-group-label">
+      <label for="birthplace">Lieu de naissance<span class="field-required">*</span></label>
+    </div>
+    <div class="form-group-field">
+      <input id="birthplace" name="birthplace" type="text" class="form-field" required>
+    </div>
+  </div>
 </fieldset>
 ```
