@@ -9,5 +9,9 @@
     <td>Janvier</td>
     <td>100€</td>
   </tr>
+  <tr>
+    <td>Février</td>
+    <td>150€</td>
+  </tr>
 </table>
 ```
