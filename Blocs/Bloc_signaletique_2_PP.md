@@ -36,10 +36,10 @@
   </div>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="birthdate">Date de naissance<span class="field-required">*</span></label>
+      <label for="birthdate">Date de naissance (JJ/MM/AAAA)<span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
-      <input id="birthdate" name="birthdate" type="date" class="form-field" required>
+      <input id="birthdate" name="birthdate" type="text" class="form-field" required>
     </div>
   </div>
   <div class="form-group">
