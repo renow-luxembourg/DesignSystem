@@ -10,11 +10,11 @@
       </div>
     </div>
   </label>
-  <div class="alert alert--info"> 
-      <p id="info-checkbox">Help message</p>
+  <div class="alert alert--info" id="info-checkbox"> 
+      <p>Help message</p>
   </div>
-  <div class="alert alert--error">  
-    <p id="error-checkbox" class="error">Error message</p>
+  <div class="alert alert--error" id="error-checkbox">  
+    <p class="error">Error message</p>
   </div>
 </div>
 ```

@@ -39,8 +39,8 @@
     </div>
     <div class="form-group-field">
       <input type="text" id="postal-code" name="postal-code" class="form-field" autocomplete="postal-code" aria-describedby="postal-code-desc" required>
-      <div class="alert alert--info"> 
-        <p id="postal-code-desc">Saisir 1234 pour L-1234</p>
+      <div class="alert alert--info" id="postal-code-desc"> 
+        <p>Saisir 1234 pour L-1234</p>
       </div>
     </div>
   </div>

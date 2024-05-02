@@ -5,8 +5,8 @@
   </div>
   <div class="form-group-field">
     <input type="text" id="name_01" name="name_01" class="form-field" aria-invalid="true" aria-describedby="error-name_01" required>
-    <div class="alert alert--error">  
-      <p id="error-name_01" class="error">Your name is mandatory, this field is required.</p>
+    <div class="alert alert--error" id="error-name_01">  
+      <p class="error">Your name is mandatory, this field is required.</p>
     </div>
   </div>
 </div>

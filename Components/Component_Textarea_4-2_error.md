@@ -5,8 +5,8 @@
   </div>
   <div class="form-group-field">
     <textarea id="textarea" name="textarea" placeholder="Placeholder text" aria-describedby="error-msg" aria-invalid="true"></textarea>
-    <div class="alert alert--error">
-      <p id="error-msg" class="error">Error message</p>
+    <div class="alert alert--error" id="error-msg">
+      <p class="error">Error message</p>
     </div>
   </div>
 </div>

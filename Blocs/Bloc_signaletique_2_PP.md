@@ -23,8 +23,8 @@
     </div>
     <div class="form-group-field">
       <input id="nin" name="nin" type="text" class="form-field" aria-describedby="nin-desc">
-      <div class="alert alert--info"> 
-        <p id="nin-desc">Numéro à 13 chiffres (format: AAAAMMJJXXXXX)</p>
+      <div class="alert alert--info" id="nin-desc"> 
+        <p>Numéro à 13 chiffres (format: AAAAMMJJXXXXX)</p>
       </div>
     </div>
   </div>

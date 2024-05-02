@@ -1,8 +1,8 @@
 ```html
 <fieldset class="form-options form-options--checkbox" aria-describedby="checkboxes_desc">
   <legend class="form-options-legend">Legend</legend>
-  <div class="alert alert--info">
-    <p id="checkboxes_desc">Help message</p>
+  <div class="alert alert--info" id="checkboxes_desc">
+    <p>Help message</p>
   </div>
   <ul class=" form-options-content">
     <li class="form-options-group">

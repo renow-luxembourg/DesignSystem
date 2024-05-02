@@ -5,8 +5,8 @@
   </div>
   <div class="form-group-field">
     <input id="datefield" name="datefield" type="date" aria-describedby="valid-msg">
-    <div class="alert alert--success">
-      <p id="valid-msg" class="valid">Message de succès</p>
+    <div class="alert alert--success" id="valid-msg">
+      <p class="valid">Message de succès</p>
     </div>
   </div>
 </div>

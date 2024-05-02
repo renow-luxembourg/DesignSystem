@@ -21,8 +21,8 @@
       </label>
     </li>
   </ul>
-  <div class="alert alert--error">
-    <p id="error-checkboxes" class="error">Error message</p>
+  <div class="alert alert--error" id="error-checkboxes">
+    <p class="error">Error message</p>
   </div>
 </fieldset>
 ```

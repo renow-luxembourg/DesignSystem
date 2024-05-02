@@ -15,11 +15,11 @@
       <span class="counter-total">13</span>
     </p>
     <textarea id="textarea" name="textarea" placeholder="Placeholder text" aria-describedby="desc-textarea counter-textarea error-textarea" aria-invalid="true" required></textarea>
-    <div class="alert alert--info">
-      <p id="desc-textarea">Help message</p>
+    <div class="alert alert--info" id="desc-textarea">
+      <p>Help message</p>
     </div>
-    <div class="alert alert--error">
-      <p id="error-textarea" class="error">Error message</p>
+    <div class="alert alert--error" id="error-textarea">
+      <p class="error">Error message</p>
     </div>
   </div>
 </div>

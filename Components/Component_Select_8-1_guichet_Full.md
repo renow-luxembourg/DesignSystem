@@ -16,11 +16,11 @@
       <option value="option2">Option 2</option>
       <option value="option3">Option 3</option>
     </select>
-    <div class="alert alert--info">
-      <p id="desc-select">Help message</p>
+    <div class="alert alert--info" id="desc-select">
+      <p>Help message</p>
     </div>
-    <div class="alert alert--error">
-      <p id="error-select" class="error">Error message</p>
+    <div class="alert alert--error" id="error-select">
+      <p class="error">Error message</p>
     </div>
   </div>
 </div>

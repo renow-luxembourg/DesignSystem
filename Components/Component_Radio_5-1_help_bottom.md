@@ -1,8 +1,8 @@
 ```html
 <fieldset class="form-options form-options--radio" aria-describedby="radio_desc">
   <legend class="form-options-legend">Legend</legend>
-  <div class="alert alert--info">
-    <p id="radio_desc">Help message</p>
+  <div class="alert alert--info" id="radio_desc">
+    <p>Help message</p>
   </div>
   <ul class="form-options-content">
     <li class="form-options-group">

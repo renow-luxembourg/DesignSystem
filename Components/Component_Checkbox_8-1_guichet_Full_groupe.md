@@ -9,8 +9,8 @@
       </div>
     </div>
   </legend>
-  <div class="alert alert--info">
-    <p id="desc-checkbox">Help message</p>
+  <div class="alert alert--info" id="desc-checkbox">
+    <p>Help message</p>
   </div>
   <ul class=" form-options-content">
     <li class="form-options-group">
@@ -26,8 +26,8 @@
       </label>
     </li>
   </ul>
-  <div class="alert alert--error">
-    <p id="error-checkbox" class="error">Error message</p>
+  <div class="alert alert--error" id="error-checkbox">
+    <p class="error">Error message</p>
   </div>
 </fieldset>
 

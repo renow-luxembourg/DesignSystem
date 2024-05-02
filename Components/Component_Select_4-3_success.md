@@ -5,8 +5,8 @@
   </div>
   <div class="form-group-field">
     <select id="select" name="select" class="form-field" aria-describedby="valid-msg">[…]</select>
-    <div class="alert alert--success">
-      <p id="valid-msg" class="valid">Success message</p>
+    <div class="alert alert--success" id="valid-msg">
+      <p class="valid">Success message</p>
     </div>
   </div>
 </div>

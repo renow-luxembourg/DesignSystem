@@ -11,11 +11,11 @@
   </div>
   <div class="form-group-field">
     <input id="date" name="datefield" type="text" aria-describedby="desc-date error-date" aria-invalid="true">
-    <div class="alert alert--info">
-      <p id="desc-date">Message d'aide</p>
+    <div class="alert alert--info" id="desc-date">
+      <p>Message d'aide</p>
     </div>
-    <div class="alert alert--error">
-      <p id="error-date" class="error">Message d'erreur</p>
+    <div class="alert alert--error" id="error-date">
+      <p class="error">Message d'erreur</p>
     </div>
   </div>
 </div>

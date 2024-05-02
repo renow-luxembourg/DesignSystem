@@ -19,11 +19,11 @@
       <span aria-hidden="true">€</span>
       <span class="sr-only">amount in euros</span>
     </p>
-    <div class="alert alert--info">  
-      <p id="desc-textfield">Help message</p>
+    <div class="alert alert--info" id="desc-textfield">  
+      <p>Help message</p>
     </div>
-    <div class="alert alert--error">  
-      <p id="error-textfield" class="error">Error message</p>
+    <div class="alert alert--error" id="error-textfield">  
+      <p class="error">Error message</p>
     </div>
   </div>
 </div>

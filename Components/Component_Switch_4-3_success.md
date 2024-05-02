@@ -10,8 +10,8 @@
       </span>
     </span>
   </label>
-  <div class="alert alert--success">
-      <p id="valid-switch" class="valid">Success message</p>
+  <div class="alert alert--success" id="valid-switch">
+      <p class="valid">Success message</p>
   </div>
 </div>
 ```

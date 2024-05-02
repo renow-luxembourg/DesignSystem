@@ -3,8 +3,8 @@
   <legend class="form-options-legend">
     Legend<span class="field-required">*</span>
   </legend>
-  <div class="alert alert--info">
-    <p id="desc-radio">Help message</p>
+  <div class="alert alert--info" id="desc-radio">
+    <p>Help message</p>
   </div>
   <ul class="form-options-content">
     <li class="form-options-group">
@@ -26,8 +26,8 @@
       </label>
     </li>
   </ul>
-  <div class="alert alert--error">
-    <p id="error-radio" class="error">Error message</p>
+  <div class="alert alert--error" id="error-radio">
+    <p class="error">Error message</p>
   </div>
 </fieldset>
 ```

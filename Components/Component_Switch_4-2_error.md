@@ -10,8 +10,8 @@
       </span>
     </span>
   </label>
-  <div class="alert alert--error">  
-    <p id="error-switch" class="error">Error message</p>
+  <div class="alert alert--error" id="error-switch">  
+    <p class="error">Error message</p>
   </div>
 </div>
 ```

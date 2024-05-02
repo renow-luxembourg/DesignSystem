@@ -21,8 +21,8 @@
       </label>
     </li>
   </ul>
-  <div class="alert alert--error">
-    <p id="error-radio" class="error">Error message</p>
+  <div class="alert alert--error" id="error-radio">
+    <p class="error">Error message</p>
   </div>
 </fieldset>
 ```

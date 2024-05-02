@@ -21,8 +21,8 @@
       </label>
     </li>
   </ul>
-  <div class="alert alert--success">
-    <p id="valid-checkboxes" class="valid" >Success message</p>
+  <div class="alert alert--success" id="valid-checkboxes">
+    <p class="valid" >Success message</p>
   </div>
 </fieldset>
 ```

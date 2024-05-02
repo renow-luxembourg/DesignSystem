@@ -15,8 +15,8 @@
     </div>
     <div class="form-group-field">
         <input id="nin" name="nin" type="text" class="form-field" aria-describedby="nin-desc" required>
-        <div class="alert alert--info"> 
-        <p id="nin-desc">Numéro à 11 chiffres (format: AAAAMMJJXXXXX)</p>
+        <div class="alert alert--info" id="nin-desc"> 
+        <p>Numéro à 11 chiffres (format: AAAAMMJJXXXXX)</p>
         </div>
     </div>
   </div>
@@ -26,8 +26,8 @@
     </div>
     <div class="form-group-field">
         <input id="regcom" name="regcom" type="text" class="form-field" aria-describedby="regcom-desc" pattern="^([A-Z][0-9]{1,6})$" required>
-        <div class="alert alert--info"> 
-        <p id="regcom-desc">Numéro à 7 caractères (format : une lettre puis 6 chiffres)</p>
+        <div class="alert alert--info" id="regcom-desc"> 
+        <p>Numéro à 7 caractères (format : une lettre puis 6 chiffres)</p>
         </div>
     </div>
   </div>
@@ -37,8 +37,8 @@
     </div>
     <div class="form-group-field">
         <input id="tva" name="tva" type="text" class="form-field" aria-describedby="tva-desc" required>
-        <div class="alert alert--info"> 
-        <p id="tva-desc">Numéro à 10 caractères (format : LUXXXXXXXX)</p>
+        <div class="alert alert--info" id="tva-desc"> 
+        <p>Numéro à 10 caractères (format : LUXXXXXXXX)</p>
         </div>
     </div>
   </div>

@@ -7,8 +7,8 @@
     </div>
     <div class="form-group-field">
       <input id="phone" name="phone" type="tel" class="form-field" autocomplete="tel" aria-describedby="phone-desc">
-      <div class="alert alert--info"> 
-        <p id="phone-desc">Indicatif du pays puis numéro (exemple : +352 12 345 678)</p>
+      <div class="alert alert--info" id="phone-desc"> 
+        <p>Indicatif du pays puis numéro (exemple : +352 12 345 678)</p>
       </div>
     </div>
   </div>
