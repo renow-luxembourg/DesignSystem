@@ -1,3 +1,3 @@
-Pour chaque erreur de saisie, le type ou le format des données attendu est suggéré dans un message. (RGAA critère [11.11](https://accessibilite.public.lu/fr/rgaa4.1.2/criteres.html#crit-11-11))
+Pour chaque erreur de saisie, le type ou le format des données attendu est suggéré dans un message. (RAWeb critère [11.11](https://accessibilite.public.lu/fr/raweb1/criteres.html#crit-11-11))
 
 **Note** : Pour annoncer au lecteur d'écran les messages ajoutés suite à une validation à la volée (*realtime form validation*), l’attribut `aria-live="assertive"` doit être ajouté au message d’erreur (sur l'élément `.alert--error`). Plus d'information à ce propos sur la page concernant [les messages d'erreur](https://designsystem.renow.lu/4354d0cc2/p/3259ed-messages-daide-et-derreur/t/83bcc5)
