@@ -1,0 +1,9 @@
+```html
+<a href="url_page_destination">
+  <span class="link-text">Label</span>
+  <span class="link-icon">
+    <svg class="icon" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><use xlink:href="#icon-download" x="0" y="0"></use>
+    </svg>
+  </span>
+</a>
+```
