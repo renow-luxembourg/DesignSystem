@@ -1,6 +1,6 @@
 ```html
 <fieldset>
-  <legend>Signalétique</legend>
+  <legend>Personne morale</legend>
   <div class="form-group">
     <div class="form-group-label">
         <label for="name">Désignation / raison sociale<span class="field-required">*</span></label>
@@ -27,7 +27,7 @@
     <div class="form-group-field">
         <input id="regcom" name="regcom" type="text" class="form-field" aria-describedby="regcom-desc" pattern="^([A-Z][0-9]{1,6})$" required>
         <div class="alert alert--info" id="regcom-desc"> 
-        <p>Numéro à 7 caractères (format : une lettre puis 6 chiffres)</p>
+        <p>Code à 7 caractères (format : une lettre puis 6 chiffres)</p>
         </div>
     </div>
   </div>
@@ -38,7 +38,7 @@
     <div class="form-group-field">
         <input id="tva" name="tva" type="text" class="form-field" aria-describedby="tva-desc" required>
         <div class="alert alert--info" id="tva-desc"> 
-        <p>Numéro à 10 caractères (format : LUXXXXXXXX)</p>
+        <p>Code à 10 caractères (format : LUXXXXXXXX)</p>
         </div>
     </div>
   </div>

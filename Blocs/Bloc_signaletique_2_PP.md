@@ -1,6 +1,6 @@
 ```html
 <fieldset>
-  <legend>Signalétique</legend>
+  <legend>Personne physique</legend>
   <div class="form-group">
     <div class="form-group-label">
       <label for="lastname">Nom<span class="field-required">*</span></label>
@@ -39,7 +39,7 @@
       <label for="birthdate">Date de naissance (JJ/MM/AAAA)<span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
-      <input id="birthdate" name="birthdate" type="text" class="form-field" required>
+      <input id="birthdate" name="birthdate" type="text" class="form-field" placeholder="jj/mm/aaaa" required>
     </div>
   </div>
   <div class="form-group">
