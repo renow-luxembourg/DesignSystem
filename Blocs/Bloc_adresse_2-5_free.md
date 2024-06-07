@@ -6,10 +6,10 @@
   </fieldset>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="line1">Ligne 1</label>
+      <label for="line1">Ligne 1<span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
-      <input type="text" id="line1" name="line1" class="form-field" autocomplete="address-line1">
+      <input type="text" id="line1" name="line1" class="form-field" autocomplete="address-line1" required>
     </div>
   </div>
   <div class="form-group">
