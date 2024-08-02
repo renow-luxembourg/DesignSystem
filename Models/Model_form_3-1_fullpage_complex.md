@@ -219,9 +219,7 @@
         <div class="page-text">
           <form>
             <div class="form-row field-info">
-              <p class="mandatory-text">
-                <span class="field-required">*</span>: obligatoires.
-              </p>
+              <p class="mandatory-text"><span class="field-required">*</span>: champ obligatoire</p>
             </div>
             <fieldset>
               <legend>Signalétique</legend>

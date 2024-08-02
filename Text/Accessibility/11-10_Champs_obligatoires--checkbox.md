@@ -1,2 +1,2 @@
 Les cases à cocher dont la sélection d’item est obligatoire sont signalées par une astérisque/étoile ( * ) au niveau de l'intitulé du groupe (*legend*) ou du label pour une case à cocher individuelle. (RAWeb critère [11.10](https://accessibilite.public.lu/fr/raweb1/criteres.html#crit-11-10))\
-**Note** : Il est à noter qu’une indication en début de formulaire doit indiquer la signification de cette astérisque/étoile, telle que : *« * : champs obligatoires. »*
+**Note** : Il est à noter qu’une indication en début de formulaire doit indiquer la signification de cette astérisque/étoile, telle que : *« * : champ obligatoire »*
