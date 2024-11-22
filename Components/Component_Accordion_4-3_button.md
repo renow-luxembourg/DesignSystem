@@ -6,7 +6,7 @@
       <h3 class="cmp-accordion__header">Accordion heading</h3>
     </summary>
     <div class="cmp-accordion__panel">
-      <p>Hidden content 1</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vitae convallis orci. In id venenatis urna. Integer viverra ante non nibh lobortis tempor. Fusce vitae dictum augue, quis gravida augue. Praesent egestas nibh id est pulvinar pretium. Suspendisse sit amet ultrices tellus. Quisque sagittis blandit tempor. Suspendisse potenti.</p>
     </div>
   </details>
   <details class="cmp-accordion">
@@ -14,7 +14,7 @@
       <h3 class="cmp-accordion__header">Accordion heading</h3>
     </summary>
     <div class="cmp-accordion__panel">
-      <p>Hidden content 2</p>
+      <p>Pellentesque id mi et diam volutpat tincidunt quis ut erat. Maecenas odio lectus, rhoncus a luctus nec, pharetra at augue. Morbi in aliquam erat. Phasellus ac posuere neque. Phasellus viverra elementum nisl. Nunc facilisis, dolor at tempor ullamcorper, libero elit fringilla arcu, et commodo massa urna sed purus. Maecenas a enim libero.</p>
     </div>
   </details>
 </div>
