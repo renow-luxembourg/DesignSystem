@@ -2,11 +2,11 @@
 <footer class="page-footer" role="contentinfo">
   <div class="page-footer-content">
     <div class="navigation-container">
-      <ul class="nav nav--support">
-        <li class="nav-item"><a href="./aide.html">Aide</a></li>
+      <ul class="nav nav--support"> 
         <li class="nav-item"><a href="./contact.html">Contact</a></li>
-        <li class="nav-item"><a href="./aspects-legaux.html">Aspects légaux</a></li>
+        <li class="nav-item"><a href="./aide.html">Aide</a></li>
         <li class="nav-item"><a href="./accessibilite.html">Accessibilité</a></li>
+		<li class="nav-item"><a href="./aspects-legaux.html">Aspects légaux</a></li>
       </ul>
     </div>
   </div>

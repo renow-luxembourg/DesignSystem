@@ -1,24 +1,13 @@
 ```html
 <footer class="page-footer" role="contentinfo">
-  <h2 class="footer-title at">Pied de page</h2>
   <div class="page-footer-content">
-    <div class="page-footer-logo">
-      <img src="[...]/logo-ctie.svg" alt="Ctie"/>
-    </div>
     <div class="navigation-container">
-	  <h3>Rubriques</h3>
-      <ul class="nav nav--secondary">
-        <li class="nav-item"><a href="/fr/lien1.html">Lien 1</a></li>
-        <li class="nav-item"><a href="/fr/lien2.html">Lien 2</a></li>
-      </ul>
-    </div>
-    <div class="navigation-container">
-      <ul class="nav nav--support">
+      <ul class="nav nav--support"> 
         <li class="nav-item"><a href="./contact.html">Contact</a></li>
-        <li class="nav-item"><a href="./plan.html">Plan du site</a></li>
+        <li class="nav-item"><a href="./aide.html">Aide</a></li>
+		<li class="nav-item"><a href="./plan.html">Plan du site</a></li>
         <li class="nav-item"><a href="./accessibilite.html">Accessibilité</a></li>
-        <li class="nav-item"><a href="./a-propos.html">A propos du site</a></li>
-        <li class="nav-item"><a href="./aspects-legaux.html">Aspects légaux</a></li>
+		<li class="nav-item"><a href="./aspects-legaux.html">Aspects légaux</a></li>
       </ul>
     </div>
   </div>
