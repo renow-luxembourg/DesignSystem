@@ -11,7 +11,14 @@
   </div>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="firstname">Prénom(s)</label>
+      <label for="firstname">Prénom(s)<span class="field-required">*</span></label>
+	  <div class="tooltip">
+      <button class="btn tooltip-button" type="button" aria-label="Aide sur le champ prénom(s)" aria-expanded="false">i</button>
+      <div class="tooltip-content" data-popper-placement="bottom" style="margin: 5px 0 0 -5px">
+        Si vous n'avez pas de prénom, vous devez saisir un tiret "-"
+        <div class="tooltip-content-arrow"></div>
+      </div>
+    </div>
     </div>
     <div class="form-group-field">
       <input id="firstname" name="firstname" type="text" class="form-field" autocomplete="given-name">
