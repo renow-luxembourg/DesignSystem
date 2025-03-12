@@ -1,2 +1,1 @@
-Pour chaque erreur, une suggestion facilitant la correction est proposée. (RAWeb critère [11.11](https://accessibilite.public.lu/fr/raweb1/criteres.html#crit-11-11))\
-Pour annoncer au lecteur d'écran les messages ajoutés suite à une validation à la volée (*realtime form validation*), l’attribut `aria-live="assertive"` doit être ajouté au message d’erreur.
+Pour chaque erreur, une suggestion facilitant la correction est proposée. (RAWeb critère [11.11](https://accessibilite.public.lu/fr/raweb1/criteres.html#crit-11-11)). Plus d'information à ce propos sur la page concernant [les messages d'erreur](https://designsystem.renow.lu/4354d0cc2/p/3259ed-messages-daide-et-derreur/t/83bcc5)
