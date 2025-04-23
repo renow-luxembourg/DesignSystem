@@ -15,7 +15,7 @@
 	  <div class="tooltip">
       <button class="btn tooltip-button" type="button" aria-label="Aide sur le champ prénom(s)" aria-expanded="false">i</button>
       <div class="tooltip-content" data-popper-placement="bottom" style="margin: 5px 0 0 -5px">
-        Si vous n'avez pas de prénom, vous devez saisir un tiret "-"
+        Si la personne n'a pas de prénom, veuillez saisir un tiret (-)
         <div class="tooltip-content-arrow"></div>
       </div>
     </div>
