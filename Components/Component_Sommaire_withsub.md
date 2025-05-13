@@ -1,6 +1,6 @@
 ```html
 <div class="summary">
-  <h2 id="summary-title-334" class="summary-title">Summary</h2>
+  <h2 id="summary-title-334" class="summary-title">Titre du sommaire</h2>
   <nav
     class="summary-navigation"
     role="navigation"
