@@ -1,1 +1,1 @@
-**Remarque** : Pour les spécificités MyGuichet.lu, consultez l'onglet MyGuichet.lu
+**Remarque** : Pour les spécificités MyGuichet.lu, consulter l'onglet MyGuichet.lu
