@@ -1,2 +1,2 @@
-Une indication en début de formulaire doit indiquer la signification de cette astérisque/étoile, telle que : *« * : champ obligatoire »*. Cette indication doit être placée en haut à droite du formulaire. 
+Une indication en début de formulaire doit indiquer la signification de cet astérisque/étoile, telle que : *« * : champ obligatoire »*. Cette indication doit être placée en haut à droite du formulaire. 
 Dans le cas d'un formulaire multi-étapes, cette indication doit être placée en haut à droite de chaque étape du formulaire possédant au moins un champ obligatoire.
