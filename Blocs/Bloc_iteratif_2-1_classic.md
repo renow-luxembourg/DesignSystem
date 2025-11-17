@@ -1,32 +1,27 @@
 ```html
-<div class="cmp-iterative-rows">
+<div class="iterative-rows">
   <fieldset>
-    <legend>#01 Contact person informations</legend>
-    <button class="btn btn-secondary" title="Delete this occurrence #01" aria-label=" Delete this occurrence #01">
-      <span class="cmp-button__icon"><svg>…</svg></span>
-    </button>
+    <legend>Contact - 1</legend>
     <div class="form-group">
       <div class="form-group-label">
-        <label for="name_01">Last name</label>
+        <label for="lastname-1">Nom<span class="field-required">*</span></label>
       </div>
       <div class="form-group-field">
-        <input id="name_01" name="name_01" type="text" placeholder="Placeholder text">
+        <input type="text" id="lastname-1" name="lastname-1" required="">
       </div>
     </div>
     <div class="form-group">
-        <div class="form-group-label">
-        <label for="firstname_01">First name</label>
+      <div class="form-group-label">
+        <label for="firstname-1">Prénom(s)</label>
       </div>
       <div class="form-group-field">
-        <input id="firstname_01" name="firstname_01" type="text" placeholder="Placeholder text">
+        <input type="text" id="firstname-1" name="firstname-1">
       </div>
     </div>
   </fieldset>
   <button class="btn btn-primary" type="button">
-    <span class="btn-icon">
-      <svg>...</svg>
-    </span>
-    <span class="btn-text">Add a person</span>
+    <span class="btn-icon"><svg>...</svg></span>
+    <span class="btn-text">Ajouter un contact</span>
   </button>
 </div>
 ```
