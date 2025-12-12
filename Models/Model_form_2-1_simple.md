@@ -10,7 +10,7 @@
         <label for="lastname">Nom<span class="field-required">*</span></label>
       </div>
       <div class="form-group-field">
-        <input id="lastname" name="lastname" type="text" class="form-field" autocomplete="family-name" required>
+        <input id="lastname" name="lastname" type="text" autocomplete="family-name" required>
       </div>
     </div>
     <div class="form-group">
@@ -18,7 +18,7 @@
         <label for="firstname">Prénom(s)</label>
       </div>
       <div class="form-group-field">
-        <input id="firstname" name="firstname" type="text" class="form-field" autocomplete="given-name">
+        <input id="firstname" name="firstname" type="text" autocomplete="given-name">
       </div>
     </div>
   </fieldset>
@@ -26,18 +26,18 @@
     <legend>Coordonnées de contact</legend>
     <div class="form-group">
       <div class="form-group-label">
-        <label for="phone">Téléphone</label>
+        <label for="tel">Téléphone</label>
       </div>
       <div class="form-group-field">
-        <input id="phone" name="phone" type="tel" class="form-field" autocomplete="tel" aria-describedby="phone-desc">
-        <div class="alert alert--info" id="phone-desc"> 
+        <input id="tel" name="tel" type="tel" autocomplete="tel" aria-describedby="info-tel">
+        <div class="msg msg--info" id="info-tel"> 
           <p>Indicatif du pays puis numéro (exemple : +352 12 345 678)</p>
         </div>
       </div>
     </div>
     <div class="form-group">
       <div class="form-group-label">
-        <label for="email">E-mail (exemple : nom.prenom@domaine.lu)<span class="field-required">*</span></label>
+        <label for="email">Adresse e-mail (format : nom.prenom@domaine.lu)<span class="field-required">*</span></label>
       </div>
       <div class="form-group-field">
         <input id="email" name="email" type="email" class="form-field" autocomplete="email">
@@ -46,7 +46,7 @@
   </fieldset>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="message">Message</label>
+      <label for="message">Message<span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
       <textarea id="message" name="message"></textarea>
