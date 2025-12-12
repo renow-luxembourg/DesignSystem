@@ -37,7 +37,7 @@
     </div>
     <div class="form-group">
       <div class="form-group-label">
-        <label for="email">E-mail (exemple : nom.prenom@domaine.lu)<span class="field-required">*</span></label>
+        <label for="email">Adresse e-mail (exemple : nom.prenom@domaine.lu)<span class="field-required">*</span></label>
       </div>
       <div class="form-group-field">
         <input id="email" name="email" type="email" class="form-field" autocomplete="email">
@@ -46,7 +46,7 @@
   </fieldset>
   <div class="form-group">
     <div class="form-group-label">
-      <label for="message">Message</label>
+      <label for="message">Message<span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
       <textarea id="message" name="message"></textarea>
