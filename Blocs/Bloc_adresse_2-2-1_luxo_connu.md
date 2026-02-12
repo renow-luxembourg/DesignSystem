@@ -85,7 +85,7 @@
   <div class="form-options form-options--checkbox">
     <label class="form-options-label" for="checkbox">
       <input class="form-options-field form-options-field--checkbox" name="checkbox" id="checkbox" type="checkbox">
-      <span class="form-options-description">Je n'ai pas trouvé l'adresse dans la liste</span>
+      <span class="form-options-description">Adresse non trouvée</span>
     </label>
   </div>
 </fieldset>
