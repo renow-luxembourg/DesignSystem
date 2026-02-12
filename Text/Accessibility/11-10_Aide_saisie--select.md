@@ -1,1 +1,1 @@
-Des messages d’aide à la selection sont présents pour donner des informations essentielles pour effectuer le choix (instruction spécifique, etc.) préalablement à la validation du formulaire. (RAWeb critère [11.10](https://accessibilite.public.lu/fr/raweb1/criteres.html#crit-11-10))
+Des messages d’aide à la selection sont présents pour donner des informations essentielles pour effectuer le choix (instruction spécifique, etc.) préalablement à la validation du formulaire. (RAWeb critère [11.10](https://accessibilite.public.lu/fr/raweb1.1/criteres.html#crit-11-10))
