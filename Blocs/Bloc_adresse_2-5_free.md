@@ -31,6 +31,13 @@
   <div class="form-group">
     <div class="form-group-label">
       <label for="postal-code">Code postal<span class="field-required">*</span></label>
+	  <div class="tooltip">
+		<button class="btn tooltip-button" type="button" aria-label="Aide sur le champ prénom(s)" aria-expanded="false">i</button>
+		<div class="tooltip-content" data-popper-placement="bottom" style="margin: 5px 0 0 -5px">
+		  Si l'adresse n'a pas de code postal, veuillez saisir un tiret (-)
+		  <div class="tooltip-content-arrow"></div>
+		</div>
+	  </div>
     </div>
     <div class="form-group-field">
       <input type="text" id="postal-code" name="postal-code" class="form-field" autocomplete="postal-code" required>
