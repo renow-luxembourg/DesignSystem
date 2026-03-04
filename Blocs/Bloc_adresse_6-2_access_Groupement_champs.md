@@ -6,7 +6,7 @@
       <label for="street">Rue (et numéro de rue)<span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
-      <input type="text" id="street" name="street" class="form-field" autocomplete="street-address" required>
+      <input type="text" id="street" name="street" class="form-field" autocomplete="address-line1" required>
     </div>
    </div>
   <div class="form-group">
