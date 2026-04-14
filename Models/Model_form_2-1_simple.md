@@ -37,7 +37,7 @@
     </div>
     <div class="form-group">
       <div class="form-group-label">
-        <label for="email">Adresse e-mail (format : nom.prenom@domaine.lu)<span class="field-required">*</span></label>
+        <label for="email">Adresse e-mail (format : contact@example.com)<span class="field-required">*</span></label>
       </div>
       <div class="form-group-field">
         <input id="email" name="email" type="email" class="form-field" autocomplete="email">
