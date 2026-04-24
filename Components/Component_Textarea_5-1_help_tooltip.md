@@ -3,9 +3,9 @@
   <div class="form-group-label">
     <label for="message">Message</label>
     <div class="tooltip">
-      <button type="button" class="tooltip-btn" aria-label="Help on message field" title="Help on message field" aria-expanded="false" aria-controls="tooltip-content">i</button>
+      <button type="button" class="tooltip-btn" aria-label="Aide sur le champ message" title="Aide sur le champ message" aria-expanded="false" aria-controls="tooltip-content">i</button>
       <div id="tooltip-content" class="tooltip-content">
-        <p>Describe step by step how the new assignment would impact your career and why are you willing to pursue.</p>
+        <p>Expliquez brièvement pourquoi ce poste vous intéresse et ce que vous pouvez apporter.</p>
       </div>
     </div>
   </div>

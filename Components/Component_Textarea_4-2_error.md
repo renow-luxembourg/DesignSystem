@@ -6,7 +6,7 @@
   <div class="form-group-field">
     <textarea id="textarea" name="textarea" placeholder="Placeholder text" aria-describedby="error-msg" aria-invalid="true"></textarea>
     <div class="alert alert--error" id="error-msg">
-      <p class="error">Error message</p>
+      <p class="error">Message d'erreur</p>
     </div>
   </div>
 </div>
