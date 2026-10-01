@@ -38,20 +38,20 @@
   </div>
   <div class="form-group">
     <div class="form-group-label">
+      <label for="commune">Commune</label>
+    </div>
+    <div class="form-group-field">
+      <input type="text" id="commune" name="commune" class="form-field" readonly>
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="form-group-label">
       <label for="city">Localité<span class="field-required">*</span></label>
     </div>
     <div class="form-group-field">
       <select id="city" name="city" class="form-field" required>
         <option value="" selected disabled hidden>Veuillez selectionner la localité</option>
       </select>
-    </div>
-  </div>
-  <div class="form-group">
-    <div class="form-group-label">
-      <label for="commune">Commune</label>
-    </div>
-    <div class="form-group-field">
-      <input type="text" id="commune" name="commune" class="form-field" readonly>
     </div>
   </div>
   <div class="form-group">

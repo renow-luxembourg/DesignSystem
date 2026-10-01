@@ -36,13 +36,11 @@
       </div>
     </div>
   </div>
-  <div class="form-group">
-    <div class="form-group-label">
-      <label for="city">Localité<span class="field-required">*</span></label>
-    </div>
-    <div class="form-group-field">
-      <input type="text" id="city" name="city" class="form-field" autocomplete="address-level2" required>
-    </div>
+    <div class="form-options form-options--checkbox">
+    <label class="form-options-label" for="checkbox">
+      <input class="form-options-field form-options-field--checkbox" name="checkbox" id="checkbox" type="checkbox" checked>
+      <span class="form-options-description">Adresse non trouvée</span>
+    </label>
   </div>
   <div class="form-group">
     <div class="form-group-label">
@@ -50,6 +48,14 @@
     </div>
     <div class="form-group-field">
       <input type="text" id="commune" name="commune" class="form-field" autocomplete="address-level3" required>
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="form-group-label">
+      <label for="city">Localité<span class="field-required">*</span></label>
+    </div>
+    <div class="form-group-field">
+      <input type="text" id="city" name="city" class="form-field" autocomplete="address-level2" required>
     </div>
   </div>
   <div class="form-group">
@@ -75,12 +81,6 @@
     <div class="form-group-field">
       <input type="text" id="additional-address" name="additional-address" class="form-field">
     </div>
-  </div>
-  <div class="form-options form-options--checkbox">
-    <label class="form-options-label" for="checkbox">
-      <input class="form-options-field form-options-field--checkbox" name="checkbox" id="checkbox" type="checkbox" checked>
-      <span class="form-options-description">Adresse non trouvée</span>
-    </label>
   </div>
 </fieldset>
 ```
